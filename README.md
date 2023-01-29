@@ -24,7 +24,7 @@ Clone the repository
 git clone https://github.com/ElieObadia/Machine_Learning_Diabetes.git
 ```
 
-#Install dependencies
+# Install dependencies
 
 ```bash
 pip install -r requirements.txt

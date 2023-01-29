@@ -8,9 +8,13 @@ To use the project, simply clone the repository and run the Jupyter notebook. Th
 # Dependencies
 
 Python 3.6 or higher
+
 scikit-learn
+
 pandas
+
 numpy
+
 Jupyter Notebook
 
 # Usage
